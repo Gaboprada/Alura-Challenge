@@ -51,7 +51,7 @@ function desencriptarTexto(){
         document.getElementById("texto").value= textocifrado;
    
 
-        titulomensaje.textContent= "texto cifrado con exito";
+        titulomensaje.textContent= "texto desencriptado con exito";
         parrafo.textContent="";
         muneco.src= "./assets/deadpool3.png";        
         
